@@ -7,17 +7,17 @@ El generador de soluciones ofrece dos tipos de laberintos a resolver:
 1. Laberintos de 12 x 12 casillas con puntos de entrada y salida aleatorios.
 2. Laberintos personalizados con dimensiones, entradas y salidas especificadas por el usuario.
 
-# Requisitos
+## Requisitos
 
 - [GNU Compiler Collection 9.3.0](https://gcc.gnu.org/gcc-9)
 
-# Configuración
+## Configuración
 
 ```bash
 make build
 ```
 
-# Uso
+## Uso
 
 ```bash
 make run
